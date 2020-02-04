@@ -5,9 +5,6 @@ Made with Python
 *Pygame
 *GitHub
 
-# Link:
-
-
 # Overview
 In this game, the player controls a rocket ship that appears at the bottom of the screen. The player can move the ship to the right and left using appropriate arrow keys and shoot a limited number of bullets using the spacebar at the alien ships that appear at the top and move across and down the screen. If all alien ships are destroyed, a new fleet appears. Otherwise, the player loses a ship.  
 
